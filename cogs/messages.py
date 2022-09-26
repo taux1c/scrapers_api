@@ -17,4 +17,4 @@ class Messages:
 # We  can then pull all information from a message and scrapers can access any of it.
 Class Message:
     def __init__(self):
-        pass
+        self.media = []

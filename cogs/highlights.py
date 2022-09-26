@@ -18,7 +18,8 @@ Class Highlights:
 # Class used for individual highlights. Allowing for each highlight to have its own settings, methods, etc.
 Class Highlight:
     def __init__(self):
-        pass
+        self.media = []
+
 
 
 

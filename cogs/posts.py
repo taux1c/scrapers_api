@@ -13,6 +13,7 @@ class Posts:
 
 Class Post:
     def __init__(self):
+        self.media = []
         pass
 
     def test(self):
@@ -27,7 +28,7 @@ Class Archived_Posts:
 
 Class Archived_Post:
     def __init__(self):
-        pass
+        self.media = []
 
 
     def test(self):
