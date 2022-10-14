@@ -24,3 +24,6 @@ methods = {
 
 
 }
+
+def endpoint(location):
+    return endpoints[location]
