@@ -1,5 +1,6 @@
 import config
-
+import cogs.auth
+import cogs.media
 
 # Class used to store and handle all Post objects. Each user can have their own Posts object.
 # This way data can be stored in memory, database, json, etc. without waiting for downloads or slower parts of the scraper.

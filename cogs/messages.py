@@ -1,5 +1,6 @@
 import config
-
+import cogs.auth
+import cogs.media
 
 
 # Class used to store and handle all Message objects. Each user can have their own Messages object.
